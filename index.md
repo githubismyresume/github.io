@@ -22,8 +22,8 @@ Cluster Computing: Linux, Shell scripting, queueing systems, cluster architectur
 
 ### [(GitHub Repositories)](http://github.com/githubismyresume)
 
-##### IT Services, Market Square Tower: Houston, Texas 			(2018-2019)
-##### U.H. Learning Center Tech Consultant					           (2019)
+#### IT Services, Market Square Tower: Houston, Texas 			(2018-2019)
+#### U.H. Learning Center Tech Consultant					           (2019)
 
 
 # __Skills__
