@@ -28,13 +28,13 @@ Cluster Computing: Linux, Shell scripting, queueing systems, cluster architectur
 
 # __Skills__
 
-* 	Python3
-* 	Xcode
-* 	HTML
-* 	Javascript
-* Bash scripting
-*	Angular.js
-* React.js
+	Python3
+ 	Xcode
+ 	HTML
+ 	Javascript
+	 Bash scripting
+	Angular.js
+	 React.js
 
 
 quantumdns@gmail.com
