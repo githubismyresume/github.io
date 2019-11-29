@@ -1,4 +1,4 @@
-# Jeff C. Davis
+# *Jeff C. Davis*
 quantumdns@gmail.com
 
 designed@tutamail.com
@@ -21,7 +21,7 @@ Cluster Computing: Linux, Shell scripting, queueing systems, cluster architectur
 
 # Experience
 
-### [(GitHub Repositories)](https://github.com/githubismyresume)
+### [(Personal GitHub Repositories Link)](https://github.com/githubismyresume)
 
 #### IT Services, Market Square Tower: Houston, Texas 			(2018-2019)
 #### U.H. Learning Center Tech Consultant					           (2019)
@@ -31,15 +31,21 @@ Cluster Computing: Linux, Shell scripting, queueing systems, cluster architectur
 
 	Python3
 	
+	
  	Xcode
+	
 	
  	HTML
 	
+	
  	Javascript
+	
 	
 	 Bash scripting
 	 
+	 
 	Angular.js
+	
 	
 	 React.js
 	 
